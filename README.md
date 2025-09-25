@@ -1,1 +1,2 @@
 # MinorProject
+author - Sparsh & Hit
