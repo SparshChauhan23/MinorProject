@@ -1,2 +1,2 @@
 # MinorProject
-author - Sparsh & Hit
+author - Sparsh Chauhan & Hit Patel
